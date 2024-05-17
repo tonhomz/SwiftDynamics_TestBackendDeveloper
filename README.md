@@ -1,7 +1,7 @@
 [Swift Dynamics] Test Backend Developer (Python)
 
 โจทย์ข้อที่ 5 ได้ทำ API ดังนี้
-School API
+- School API
 - create school
 - school list (can filter by name)
 - update school
