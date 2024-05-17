@@ -1,22 +1,22 @@
 [Swift Dynamics] Test Backend Developer (Python)
 
 โจทย์ข้อที่ 5 ได้ทำ API ดังนี้
-- School API
+1. School API
 - create school
 - school list (can filter by name)
 - update school
 - delete school
-Classroom API
+2. Classroom API
 - create classroom
 - classroom list
 - update classroom
 - delete classroom
-Teacher API
+3. Teacher API
 - create teacher
 - teacher list (can filter by firstname, lastname, gender)
 - update teacher
 - delete teacher
-Student API
+4. Student API
 - create student
 - student list (can filter by firstname, lastname, gender)
 - update student
